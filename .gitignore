@@ -1,0 +1,13 @@
+# ===== LaTeX =====
+*.aux
+*.log
+
+# ===== Python =====
+__pycache__/
+*.pyc
+
+# ===== Editor =====
+.vscode/
+
+# =====  Others ====
+memo
